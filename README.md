@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I am Priyanka :)
+<br/>
+🔭 I’m currently working as a .NET Full Stack Developer with an over all experience of 5.5 years.
 <!--
 **priyankanuggu/PriyankaNuggu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
