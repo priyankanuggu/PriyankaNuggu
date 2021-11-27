@@ -1,7 +1,7 @@
-### Hi there 👋
-I am Priyanka :)
+### Hi there 👋 , I am Priyanka :)
+
 <br/>
-🔭 I’m currently working as a .NET Full Stack Developer with an over all experience of 5.5 years.
+🔭 Working with Tata Consultancy Services as  Systems Engineer | B.Tech(IT) Graduate |  C#, ASP.NET MVC5, PL/ SQL , HTML, CSS, Bootstrap, JavaScript, JQuery.
 <!--
 **priyankanuggu/PriyankaNuggu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
