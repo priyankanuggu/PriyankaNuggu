@@ -1,7 +1,7 @@
 ### Hi there 👋 , I am Priyanka :)
 
 <br/>
-🔭 Working with Tata Consultancy Services as  Systems Engineer | B.Tech(IT) Graduate |  C#, ASP.NET MVC5, PL/ SQL , HTML, CSS, Bootstrap, JavaScript, JQuery.
+🔭 Working with Tata Consultancy Services as  Systems Engineer | B.Tech (Information Technology) Graduate |  C#, ASP.NET MVC, PL/ SQL , HTML, CSS, Bootstrap, JavaScript, JQuery.
 <!--
 **priyankanuggu/PriyankaNuggu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
